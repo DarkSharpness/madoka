@@ -1,4 +1,7 @@
 site_name: My Doc
-site_url: https://darksharpness.github.io/test
+site_url: https://darksharpness.github.io/
+site_dir: site/test
 theme:
   name: material
+  palette:
+    scheme: slate
